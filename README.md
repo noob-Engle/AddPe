@@ -13,3 +13,7 @@ AddPe bypass safe Test：
 - EDR
 - 163Email
 
+
+# Attack & map info
+
+https://attack.mitre.org/techniques/T1027/001/
