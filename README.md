@@ -1,5 +1,6 @@
 # AddPe
 
+>build
 ```rust
 cargo build --verbose
 cargo test --verbose
@@ -20,3 +21,8 @@ https://attack.mitre.org/techniques/T1027/001/
 
 
 <img width="1688" alt="image" src="https://github.com/noob-Engle/AddPe/assets/82130997/a0d888c6-c34c-401c-9a46-bdec8d5af270">
+
+# USAGE
+```bash
+SharpIncrease.exe -D yourmalmalware.exe -T 150 -O BigMwalware.exe
+```
