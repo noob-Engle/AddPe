@@ -24,5 +24,5 @@ https://attack.mitre.org/techniques/T1027/001/
 
 # USAGE
 ```bash
-SharpIncrease.exe -D yourmalmalware.exe -T 150 -O BigMwalware.exe
+AddPe.exe -D yourmalmalware.exe -T 150 -O BigMwalware.exe
 ```
